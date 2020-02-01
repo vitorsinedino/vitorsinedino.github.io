@@ -1,0 +1,169 @@
+body{
+  margin: 0;
+}
+
+
+#header{
+  width: 100%;
+}
+
+#h1{
+    color: white;
+    margin-left: 25px;
+}
+
+.container{
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 150%;    
+    
+}
+
+.lead{
+    color: white;
+    font-weight: 330;
+   
+        
+}
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#img1{
+    
+    width: 100%;
+    opacity: 0.9;
+}
+
+.skill-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 500px;
+    margin-top: 50px;
+    
+    flex-direction: row;
+    margin-left: auto;
+}
+
+.skill-1{
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+#image{
+    width:  90px;
+    height: 110px;
+    margin-right: 10px;
+    padding: px;
+}
+
+#image2{
+    width:  90px;
+    height: 110px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#image3{
+    width:  90px;
+    height: 110px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#skill-text{
+    color: black;
+    margin-top: 35px;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+#skill-text2{
+    color: black;
+    margin-top: 35px;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+#skill-text3{
+    color: black;
+    margin-top: 35px;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+
+.skill-heading{
+    display: flex;
+    widows: 100%;
+    height: 100px;
+    color: black;
+    background-color: white;
+    font-size: 2em;
+    margin-bottom: 50px;
+}
+
+.skill-title{
+    margin-left: 45%;
+    margin-top: 50px;
+}
+
+.previous-projects{
+	display: flex;
+	widows: 100%;
+	height: 100px;
+	margin-top: 20px;
+	font-size: 2em;
+	margin-bottom: 10px;		
+	
+}
+
+.title{
+	margin-left: 45%;
+	margin-top: -7%;
+	font-size: 1.0em;
+
+}
+
+.portfolio-container{
+	display: flex;
+	widows: 100%;
+	height: 100px;
+	margin-left: 50px;
+	margin-top: -50px;
+	font-size: 1.4em;
+}
+
+
+.portimg{
+	height: 250px;
+	width: 350px;
+	margin-left: 100px;
+	margin-bottom: 70px;
+		
+}
+
+.portfolio-dsc{
+	margin-left: 20px;
+	margin-bottom: 10px;
+	
+}
+
+.portfolio-name{
+	font-weight: 700;
+	font-size: 1.4em;
+		
+}
+#linha {
+	
+}
